@@ -1,4 +1,4 @@
-# LeetCoach — Gemini‑powered local LeetCode coach
+# LeetCoach: Gemini powered local LeetCode coach
 
 **Problem**: LeetCode’s Easy/Medium/Hard buckets are too coarse. Zerotrac/CLIST offer *numeric* difficulty. In the terminal, I want a coach that only proposes truly easier bridge problems and helps me start quickly.
 
