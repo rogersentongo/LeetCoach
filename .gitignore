@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local data & problems (generated/personal)
+data/ratings.txt
+data/ratings.json
+problems/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
